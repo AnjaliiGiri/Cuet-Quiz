@@ -12,6 +12,22 @@ A console-based quiz application built in C for CUET PG preparation.
 - Leaderboard with saved scores
 - Review wrong answers
 
+## Tech Stack
+
+- Language: C
+- Concepts Used:
+  - File Handling
+  - Structures
+  - Arrays
+  - Functions
+  - Control Statements
+
+## Project Structure
+
+- `main.c` → Core quiz logic
+- `README.md` → Project documentation
+- `.gitignore` → Ignored files
+  
 ## How to Run
 
 clang main.c -o quiz
