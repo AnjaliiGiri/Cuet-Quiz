@@ -1,5 +1,10 @@
 # CUET PG Quiz System
 
+![C](https://img.shields.io/badge/Language-C-blue.svg)
+![Platform](https://img.shields.io/badge/Platform-CLI-lightgrey.svg)
+![Status](https://img.shields.io/badge/Status-Completed-success.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 A console-based quiz application built in C for CUET PG preparation.
 
 ## Features
