@@ -25,7 +25,7 @@ A console-based quiz application built in C for CUET PG preparation.
   - Structures
   - Arrays
   - Functions
-  - Control Statements
+  - Control Statements.
 
 ## Project Structure
 
